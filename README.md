@@ -1,4 +1,3 @@
-### Hi there 👋
 
 - 👋 Hi, I’m [Neel Thomas](https://www.linkedin.com/in/neel-thomas-646a27131/)
 - 👀 I’m interested in SRE, Platform Engineering, Golang, Linux, Kubernetes, Cloud.
