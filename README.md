@@ -1,7 +1,6 @@
 
 - 👀 I’m interested in SRE, Platform Engineering, Golang, Linux, Kubernetes, Cloud.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 My [Portfolio website](https://codeworks.cloud/)
 
 <!---
 qdnqn/qdnqn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
